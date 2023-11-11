@@ -1,0 +1,9 @@
+body {
+     color:coral;
+    background-color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.container{
+    padding: 0px 50px;
+}
