@@ -10,10 +10,19 @@ nav {
     color:crimson;
     box-shadow: 7px 7px 7px gray ;
     display: flex;
-    justify-content:space-between;
+    justify-content:center;
     margin-bottom: 20px;
 }
 
 .container{
     padding: 0px 50px;
+}
+
+.container-img{
+    display: inline-block;
+    margin: 15px;
+}
+
+.imagens-espaçadas{
+    text-align: center;
 }
